@@ -5,9 +5,8 @@
 #### Please keep all the private repos private, don't clone coursework/videos to a public repo. Thx! 
 
 
-If you can't see the course-archive repo, you're not a member :(
 
-If you need to be added as a member, or lose access for some reason, reach out to me:
+If you can't see the course-archive repo, you're not a member. If you need to be added, or lose access for some reason, send me your github username:
 
 * rgscha02@gmail.com <br />
 * www.linkedin.com/in/rowanschaefer <br />
