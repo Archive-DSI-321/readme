@@ -1,6 +1,6 @@
 # About
 
-#### This is an archive of dsi-321-countdown! In case any of us lose our computers, etc.  
+#### This is an archive of dsi-321-countdown! In case any of us lose our computers, etc.  💩 happens!
 
 #### Please keep all the private repos private, don't clone coursework/videos to a public repo. Thx! 
 <p><br />
