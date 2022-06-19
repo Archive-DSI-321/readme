@@ -6,7 +6,7 @@
 
 
 
-If you can't see the course-archive repo, you're not a member. If you need to be added, or lose access for some reason, send me your github username:
+If you can't see the course-archive repo, you're not a member yet. If you need to be added, send me your github username:
 
 * rgscha02@gmail.com <br />
 * www.linkedin.com/in/rowanschaefer <br />
