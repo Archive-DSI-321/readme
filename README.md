@@ -4,9 +4,16 @@
 
 #### Please keep all the private repos private, don't clone coursework/videos to a public repo. Thx! 
 
-If you need access or lose access for some reason, reach out to me:
+If you need access or lose access for some reason, reach out to me.
+
+you can tell if you don't have access to the private repos if you can't see the course-archive repo.
+
+
 * rgscha02@gmail.com <br />
 * www.linkedin.com/in/rowanschaefer <br />
 * https://github.com/rowangayleschaefer <br />
+
+
+
 
 <br />
