@@ -21,8 +21,8 @@ If you lose access for any reason reach out to me:
 * [Google Classroom](https://classroom.google.com/u/1/c/NDgxOTUyODE5MzQy)
 * Course Schedule [Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=c_classroom82ea08f1)
 * [Graduation Requirements](./graduation-requirements.md)
-* [Breakfast Hour](https://git.generalassemb.ly/DSIR-321/breakfast-hour)
-* [Book Recs](https://git.generalassemb.ly/DSIR-321-Countdown/course-info/blob/main/book-recs.md)
+* [Breakfast Hour](breakfast-hour)
+* [Book Recs](./book-recs.md)
   
 
 ### Akira's Office Hours
